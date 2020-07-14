@@ -1,3 +1,3 @@
-# ed_contrib_repo
-ElasticDev Contribution Repository
-This is a empty template to be used to contribute to the ElasticDev either as public or private stacks.
+# maven-example
+Code examples used in Building Java  applications using Cloud Build
+https://cloud.google.com/cloud-build/docs/building/build-java
